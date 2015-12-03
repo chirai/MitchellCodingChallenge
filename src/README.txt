@@ -36,7 +36,6 @@ Tests:
 
 Files Included:
 	- README.txt
-	- Database Schema
 	- MitchellClaim.java
 	- MitchellClaimService.java
 	- MitchellClaimDao.java
